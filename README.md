@@ -1,0 +1,3 @@
+# BayesianFilterSelf-positioning
+2022年度動的知能システム表現基礎期末課題で制作。既知のマップを動き回るロボットの自己位置推定を行うプログラム
+BayesianFilterというフォルダが本体
